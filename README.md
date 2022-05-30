@@ -4,4 +4,12 @@
 
 # moving to the mobile version to make it responsive.
 
-![Screenshot 2022-05-30 at 02-26-45 elo'l'eat](https://user-images.githubusercontent.com/57706905/170901969-b68639a9-52b3-4405-8764-4cd220f1d839.png)
+# BELOW 1344px (Smaller desktops)
+
+# BELOW 1200px (Landscape Tablets)
+
+# BELOW 944px (Tablets)
+
+# BELOW 704px (Smaller Tablets)
+
+# BELOW 544px (Phone)
